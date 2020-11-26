@@ -1,0 +1,12 @@
+E:\Sharaga\SPP\Faker\Faker\bin\Debug\Faker.exe
+E:\Sharaga\SPP\Faker\Faker\bin\Debug\Faker.pdb
+E:\Sharaga\SPP\Faker\Faker\obj\Debug\Faker.csprojAssemblyReference.cache
+E:\Sharaga\SPP\Faker\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+E:\Sharaga\SPP\Faker\Faker\obj\Debug\Faker.exe
+E:\Sharaga\SPP\Faker\Faker\obj\Debug\Faker.pdb
+C:\Users\Mi\Documents\university\MI5\spp\Faker\bin\Debug\Faker.exe
+C:\Users\Mi\Documents\university\MI5\spp\Faker\bin\Debug\Faker.pdb
+C:\Users\Mi\Documents\university\MI5\spp\Faker\obj\Debug\Faker.csprojAssemblyReference.cache
+C:\Users\Mi\Documents\university\MI5\spp\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Documents\university\MI5\spp\Faker\obj\Debug\Faker.exe
+C:\Users\Mi\Documents\university\MI5\spp\Faker\obj\Debug\Faker.pdb
